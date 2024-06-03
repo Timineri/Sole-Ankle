@@ -1,7 +1,6 @@
 // import React from 'react'
+import RightNavImg from "../../assets/img/Right Nav.png";
 
 export default function RightNav() {
-  return (
-    <div>RightNav</div>
-  )
+  return <img src={RightNavImg} alt="" />;
 }
