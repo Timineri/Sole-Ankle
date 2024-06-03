@@ -20,6 +20,8 @@ const GlobalStyles = createGlobalStyle`
 */
 html, body {
   height: 100%;
+  background-color: #E5E5E5;
+  font-family: 'Raleway', sans-serif;
 }
 
 /*
