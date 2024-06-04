@@ -17,6 +17,11 @@ export default function App() {
 }
 
 const Body = styled(Box)`
+<<<<<<< HEAD
+=======
+  width: 1020px;
+  height: 768px;
+>>>>>>> 71fdfae82c95e9165690969346fc5c80839d39ca
   background-color: white;
   opacity: 0px;
   margin: 0 auto;

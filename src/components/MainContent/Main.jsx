@@ -23,7 +23,11 @@ export default function Main() {
 
 const Section = styled(Box)`
   display: flex;
+<<<<<<< HEAD
   gap: 10em;
+=======
+  justify-content: space-between;
+>>>>>>> 71fdfae82c95e9165690969346fc5c80839d39ca
   margin: 0 auto;
   padding: 0 30px;
 `;
